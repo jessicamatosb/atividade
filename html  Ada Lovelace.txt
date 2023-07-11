@@ -1,0 +1,33 @@
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Mulheres na Tecnologia</title>
+</head>
+<body style="background-color: rgb(246, 240, 238);">
+   <center><h1> Ada Lovelace</h1>
+   <p><b>Reconhecida por muitos como a mãe da programação.</b><br> 
+
+    <img src="Ada_Lovelace.jpg" alt Ana Lovelace style="width:100px;height:200px;">
+
+    <p>Retrato de Ada, condessa de Lovelace, 1840. Ela está elegantemente vestida em um vestido de noite com mantilha e leque, aos 25 anos de idade. Retirado do Science Museum Group Collection.</p>
+
+  
+<p>A contribuição de Ada Lovelace à história da computação
+    Movida pelo entusiasmo em desenvolver aplicações práticas ao uso da máquina analítica, foi durante a escrita das Notas em sua versão traduzida que Ada apresentou conceitos que transcendem o período e até mesmo a aplicação na máquina analítica. O método desenvolvido para operar a máquina continha o algoritmo para calcular os números de Bernoulli e organizava em grupos várias operações que poderiam ser repetidas ou reutilizadas com o suporte de cartões perfurados.
+    
+    Podemos sintetizar alguns conceitos de Ada como:</center>
+    <ul>
+    <li>A ideia de loop
+    <li>A ideia de sub-rotinas
+    <li>Conceito precursor de estruturas condicionais
+    <li>A relação entre qualquer elemento que pudesse ser representado por símbolos, isso em grande medida aos ensinamentos de De Morgan
+   <li> Uma máquina de propósito, de uso geral, pois tem a capacidade de ser reprogramada. Poderia processar com música, cálculos, tear…</p>
+   </ul>
+
+   <center><b>Link da máteria: </b><a href="https://www.alura.com.br/artigos/ada-lovelace-charles-babbage-eniac-breve-historia-computacao" target="_blank">Ana Lovelace</a>
+   </center><br> 
+ 
+   </html>
